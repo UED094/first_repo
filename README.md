@@ -7,3 +7,7 @@ Discovering VS code integration of git
 Adding a new line
 
 yeni biseyler daha
+
+# New Branch Additions
+
+Typing this from new branch!
