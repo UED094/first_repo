@@ -1,4 +1,4 @@
 print('Hello First Repo')
 
-def func():
-    print("Hi!")
+def divide(x,y):
+    return x-y
