@@ -1,0 +1,1 @@
+print('alakasiz isler')
